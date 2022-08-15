@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebonyenny
-- 👀 I’m interested in full stack development especially front end development gig
-- 🌱 I’m currently learning back end development, but I write HTML, CSS , Javascript and Python convinently as well as several frameworks.
+- 👀 I’m interested in Data analysis, Tech support and front end development gig
+- 🌱 I’m currently learning Data Analysis, but I write HTML, CSS and Python convinently as well as VueJs framework.
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me dorcasosadare@gmail.com or eniolaosadare@gmail.com
 
